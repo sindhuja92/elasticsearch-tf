@@ -9,5 +9,5 @@ master_count = 1
 key_name = "elasticsearch"
 volume_size = 8
 master_allocid = ["eipalloc-04ef1fe36fc48bbbe"]
-node_allocid = ["", ""]
+node_allocid = ["eipalloc-060c0091ab05ffc36", "eipalloc-04ef1fe36fc48bbbe"]
 
