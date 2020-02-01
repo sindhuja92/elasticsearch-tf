@@ -8,7 +8,7 @@
 3. Create certificates for master and nodes and store them in s3 bucket.
 4. Store a text file in s3 bucket which contains elastic user password used to reset the bootstrap password to access the cluster using credentials.
 5. Create three elastic ip's and pass them as a list in .tfvars to associate them to the instances yet to be created.
-6. Once all pre-requisites are completed run the following steps using terraform.
+6. Once all pre-requisites are complete run the following steps using terraform.
 
 
 terraform init
