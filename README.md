@@ -17,3 +17,4 @@ terraform plan -var-file=env/dev.tfvars
 
 terraform apply 
 
+![alt text](https://github.com/sindhuja92/elasticsearch-tf/blob/master/Screen%20Shot%202020-01-31%20at%2010.25.12%20PM.png)
