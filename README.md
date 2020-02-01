@@ -1,6 +1,6 @@
 # elasticsearch-tf
 
-** Steps to setup a 1 master 2 node elasticsearch cluster**
+**Steps to setup a 1 master 2 node elasticsearch cluster**
 
 1. Install terraform 0.12.17 on your machine.
 2. Provide access key and secret key to authenticate to AWS.
