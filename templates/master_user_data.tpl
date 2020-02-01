@@ -18,7 +18,7 @@ yum_repos:
         failovermethod: priority
         gpgcheck: true
         gpgkey: https://artifacts.elastic.co/GPG-KEY-elasticsearch
-        name: lasticsearch repository for 7.x packages
+        name: elasticsearch repository for 7.x packages
         autorefresh: 1
         type: rpm-md  
 
